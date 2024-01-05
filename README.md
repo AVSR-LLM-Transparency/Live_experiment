@@ -5,7 +5,9 @@ and guidance. The second functionality involves the preservation of critical exp
 data that we are focusing on. This module operates almost parallelly with the system’s
 original State Flow, implying minimal major alterations to the core structure. Instead, it
 activates the ’Live experiment’ operations upon reaching certain states within the existing
-system. The figure below vividly illustrates the updated state flow transitions. These are
+system. 
+
+The figure below vividly illustrates the updated state flow transitions. These are
 differentiated by three colors representing three distinct sections. **Black** denotes the
 original state transition flow of the system. **The blue section** highlights the triggering
 of different stages of the ’Live experiment’ and their corresponding relationships with the
