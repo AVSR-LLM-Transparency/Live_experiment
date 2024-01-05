@@ -19,4 +19,6 @@ the inclusion of a state called ’LLM 1st word’. Additionally, throughout var
 of the live experiment, especially during waiting periods, users will receive interactive
 information from the system to ensure a user-friendly process experience.
 
-![](https://github.com/AVSR-LLM-Transparency/Live_experiment/blob/17f1127cb9bb450ca1d0755e74ce558eeb719587/updated%20State%20Flow.png)
+
+
+![updated State Flow](https://github.com/AVSR-LLM-Transparency/Live_experiment/blob/17f1127cb9bb450ca1d0755e74ce558eeb719587/updated%20State%20Flow.png)
